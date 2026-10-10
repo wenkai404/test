@@ -1,6 +1,6 @@
 # TEST_PROGRAM
 
-## such as the sise
+## such as the size
 
 the link [bilibili](www.bilibili.com)
 
@@ -11,10 +11,10 @@ the table
 
 - [x] task1
 - [ ] task2
-- [ ] task3
+- [x] task3
 
 like the picture
 
-usr the web language
+use the web language
 
 <img alt="img" src = "./res/1.png" width= "100" align = "left">
